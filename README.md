@@ -78,6 +78,16 @@ jupyter notebook batman_analysis.ipynb
 - **Anomaly:** Mask of the Phantasm proves critical quality alone does not guarantee box office success — marketing and release strategy matter equally
 - **Budget trend:** Production budgets grew from $1.5M (1966) to $250M (2012) — a 16,567% increase
 
+
+## Charts
+
+![Worldwide Gross](01_worldwide_gross.png)
+![ROI](02_roi.png)
+![Budget vs Gross](03_budget_vs_gross.png)
+![Score vs Gross](04_score_vs_gross.png)
+![Era Comparison](05_era_comparison.png)
+![Budget Over Time](06_budget_over_time.png)
+![Animated vs Live](07_animated_vs_live.png)
 ## Author
 
 Karthik Thirunagari — [github.com/karthikthirunagari01](https://github.com/karthikthirunagari01)
