@@ -1,0 +1,13 @@
+title,year,budget_m,worldwide_gross_m,domestic_gross_m,rt_score,audience_score,director,batman_actor,era,animated
+Batman,1966,1.5,1.6,1.4,81,77,Leslie Martinson,Adam West,Classic,No
+Batman,1989,35,411,251,71,83,Tim Burton,Michael Keaton,Burton,No
+Batman Returns,1992,80,267,163,80,72,Tim Burton,Michael Keaton,Burton,No
+Batman: Mask of the Phantasm,1993,6,5.8,5.8,83,90,Eric Radomski/Bruce Timm,Kevin Conroy (voice),Animated,Yes
+Batman Forever,1995,100,337,184,39,54,Joel Schumacher,Val Kilmer,Schumacher,No
+Batman & Robin,1997,125,238,107,11,19,Joel Schumacher,George Clooney,Schumacher,No
+Batman Begins,2005,150,374,206,84,85,Christopher Nolan,Christian Bale,Nolan,No
+The Dark Knight,2008,185,1008,535,94,94,Christopher Nolan,Christian Bale,Nolan,No
+The Dark Knight Rises,2012,250,1082,448,87,90,Christopher Nolan,Christian Bale,Nolan,No
+Batman v Superman,2016,250,874,330,28,63,Zack Snyder,Ben Affleck,DCEU,No
+The LEGO Batman Movie,2017,80,312,176,90,85,Chris McKay,Will Arnett (voice),Animated,Yes
+The Batman,2022,185,772,369,85,87,Matt Reeves,Robert Pattinson,Reeves,No
